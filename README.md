@@ -13,4 +13,4 @@ It provides real-time weather updates, air quality index, and a clean responsive
 React, CSS3, OpenWeather API, Tailwind CSS, Javascript
 
 ## 🌐 Live Demo
-[View Project](https://resplendent-babka-4d728c.netlify.app/)
+[View Project]((https://musical-rabanadas-6bc766.netlify.app/)
