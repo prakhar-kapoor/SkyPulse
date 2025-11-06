@@ -1,6 +1,6 @@
-# 🌦️ Skypulse
+# 🌦️ SkyPulse
 
-Kypulse is a modern weather dashboard built with React and the OpenWeather API.  
+SkyPulse is a modern weather dashboard built with React and the OpenWeather API.  
 It provides real-time weather updates, air quality index, and a clean responsive design optimized for both desktop and mobile.
 
 ## 🚀 Features
